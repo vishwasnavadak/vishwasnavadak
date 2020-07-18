@@ -6,13 +6,14 @@ I am a software developer currently working at [Antstack Technologies](https://a
 
 ## Currently Building stuff with
 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> 
-<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon">
+| <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> |
+<img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon"> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Blog Posts
 

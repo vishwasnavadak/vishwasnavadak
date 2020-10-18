@@ -8,20 +8,19 @@ I am a software developer currently working at [Antstack Technologies](https://a
 
 ## Blog Posts
 
-### 2020-07-18 - [Svelte and Sapper: First Impressions](https://vishwas.tech//blog/2020/07/18/svelte-sapper-first-impressions.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+### 2020-10-18 - [Opting Out From Contextual/Targeted Ads on Popular Sites](https://vishwas.tech/blog/opting-out-from-contextual-targeted-ads)
 
-### 2020-04-11 - [Transition from LAMP to JAMStack](https://vishwas.tech//blog/2020/04/11/lamp-to-jam-stack.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+### 2020-07-18 - [Svelte and Sapper: First Impressions](https://vishwas.tech//blog/2020/07/18/svelte-sapper-first-impressions.html)
 
-### 2019-12-15 - [Easy Serverless Deployment using Serverless Framework & Github Actions](https://vishwas.tech/blog/2019/12/15/serverless-deployment-using-serverless-framework-github-actions.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+### 2020-04-11 - [Transition from LAMP to JAMStack](https://vishwas.tech//blog/2020/04/11/lamp-to-jam-stack.html)
 
-### 2019-09-25 - [Using JavaScript with Tableau](https://vishwas.tech/blog/2019/09/25/using-javascript-with-tableau.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+### 2019-12-15 - [Easy Serverless Deployment using Serverless Framework & Github Actions](https://vishwas.tech/blog/2019/12/15/serverless-deployment-using-serverless-framework-github-actions.html)
 
-### 2019-07-15 - [Scraping the web with javascript](https://vishwas.tech/blog/2019/07/15/scraping-with-javascript.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+### 2019-09-25 - [Using JavaScript with Tableau](https://vishwas.tech/blog/2019/09/25/using-javascript-with-tableau.html)
+
+### 2019-07-15 - [Scraping the web with javascript](https://vishwas.tech/blog/2019/07/15/scraping-with-javascript.html)
 
 ## Github Stats
 
 ![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true)
-
-
-

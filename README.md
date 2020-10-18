@@ -21,3 +21,11 @@ I am a software developer currently working at [Antstack Technologies](https://a
 ### 2019-09-25 - [Using JavaScript with Tableau](https://vishwas.tech/blog/2019/09/25/using-javascript-with-tableau.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
 
 ### 2019-07-15 - [Scraping the web with javascript](https://vishwas.tech/blog/2019/07/15/scraping-with-javascript.html?utm_source=GitHub&utm_medium=GitHubRepo&utm_campaign=GitHubTraffic)
+
+## Github Stats
+
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
+![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true)
+
+
+

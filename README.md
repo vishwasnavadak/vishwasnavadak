@@ -22,5 +22,5 @@ I am a software developer currently working at [Antstack Technologies](https://a
 
 ## Github Stats
 
-![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars&theme=dark)
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true&theme=dark)

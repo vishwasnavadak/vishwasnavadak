@@ -8,6 +8,8 @@ I am a software developer currently working at [Antstack Technologies](https://a
 
 ## Blog Posts
 
+### 2021-05-02 - [Using DNS Filters for Blocking Ads and Tracking](https://vishwas.tech/blog/using-dns-filters-for-blocking-ads-and-tracking)
+
 ### 2020-10-18 - [Opting Out From Contextual/Targeted Ads on Popular Sites](https://vishwas.tech/blog/opting-out-from-contextual-targeted-ads)
 
 ### 2020-07-18 - [Svelte and Sapper: First Impressions](https://vishwas.tech//blog/2020/07/18/svelte-sapper-first-impressions.html)

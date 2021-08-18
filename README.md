@@ -9,6 +9,8 @@ I am a software developer currently working at [Antstack Technologies](https://a
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
+### 2021-08-15 - [Getting Away from Notification Hell](https://vishwas.tech/blog/notification-hell)
+
 ### 2021-05-02 - [Using DNS Filters for Blocking Ads and Tracking](https://vishwas.tech/blog/using-dns-filters-for-blocking-ads-and-tracking)
 
 ### 2020-10-18 - [Opting Out From Contextual/Targeted Ads on Popular Sites](https://vishwas.tech/blog/opting-out-from-contextual-targeted-ads)

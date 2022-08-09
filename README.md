@@ -25,6 +25,8 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
+### 2022-08-08 - [Email Management 101](https://vishwas.tech/blog/email-management)
+
 ### 2022-01-16 - [Renewing Old Hobbies, Trying New Things and Self Reflection](https://vishwas.tech/blog/hobbies-and-self-discovery)
 
 ### 2021-11-11 - [Different Ways to Build and Deploy Serverless Applications](https://www.antstack.io/blog/different-ways-to-build-and-deploy-serverless-applications/)

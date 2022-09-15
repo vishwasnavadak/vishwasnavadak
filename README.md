@@ -1,5 +1,7 @@
 I am a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=https://www.antstack.io'/>[Antstack Technologies](https://antstack.com). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
 
+<p>&nbsp;</p>
+
 ## 👨‍💻 Currently Building stuff with 
 
 <p>
@@ -21,7 +23,7 @@ I am a software developer currently working at <img height="16" width="16" src='
   <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white" />
 </p>
 
-
+<p>&nbsp;</p>
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
@@ -49,9 +51,16 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ### 2019-07-15 - [Scraping the web with javascript](https://vishwas.tech/blog/2019/07/15/scraping-with-javascript.html)
 
-
+<p>&nbsp;</p>
 
 ## 📈 Github Stats 
-
-![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
-![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true&theme=dark)
+<p>
+  <table>
+    <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark" alt="Vishwasa's Stats"/>
+    </td>
+     <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true&theme=dark" alt="Vishwasa's Top Langs"/>
+ </td>
+    </tr>
+   </table>
+</p>

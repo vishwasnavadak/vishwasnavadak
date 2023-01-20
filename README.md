@@ -27,6 +27,8 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
+### 2023-01-08 - [HIGHlights of My 2022](https://vishwas.tech/blog/highlights-of-my-2022)
+
 ### 2022-08-08 - [Email Management 101](https://vishwas.tech/blog/email-management)
 
 ### 2022-01-16 - [Renewing Old Hobbies, Trying New Things and Self Reflection](https://vishwas.tech/blog/hobbies-and-self-discovery)

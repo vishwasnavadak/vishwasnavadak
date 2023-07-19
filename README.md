@@ -1,4 +1,4 @@
-I am a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=https://www.antstack.io'/>[Antstack Technologies](https://antstack.com). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
+I am a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=https://www.antstack.com'/>[Antstack Technologies](https://antstack.com). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
 
 <p>&nbsp;</p>
 
@@ -27,25 +27,27 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
+### 2023-07-05 - [Streamlining AWS Account Access Management with AWS IAM Identity Center (AWS SSO)](https://www.antstack.com/blog/streamlining-aws-account-access-management-with-aws-iam-identity-center-aws-sso/)
+
+### 2023-06-07 - [Protecting Serverless Applications with AWS WAF](https://www.antstack.com/blog/protecting-serverless-applications-with-aws-waf/)
+
 ### 2023-01-08 - [HIGHlights of My 2022](https://vishwas.tech/blog/highlights-of-my-2022)
+
+### 2022-10-17 - [Migrating to antstack.com From antstack.io Using AWS Amplify](https://www.antstack.com/blog/migrating-to-antstack-com-from-antstack-io-using-aws-amplify/)
 
 ### 2022-08-08 - [Email Management 101](https://vishwas.tech/blog/email-management)
 
 ### 2022-01-16 - [Renewing Old Hobbies, Trying New Things and Self Reflection](https://vishwas.tech/blog/hobbies-and-self-discovery)
 
-### 2021-11-11 - [Different Ways to Build and Deploy Serverless Applications](https://www.antstack.io/blog/different-ways-to-build-and-deploy-serverless-applications/)
+### 2021-11-11 - [Different Ways to Build and Deploy Serverless Applications](https://www.antstack.com/blog/different-ways-to-build-and-deploy-serverless-applications/)
 
 ### 2021-08-15 - [Getting Away from Notification Hell](https://vishwas.tech/blog/notification-hell)
 
-### 2021-07-10 - [AWS App Runner: Getting Started with ECR Deployments](https://www.antstack.io/blog/aws-apprunner-getting-started-with-ecr-deployments/)
+### 2021-07-10 - [AWS App Runner: Getting Started with ECR Deployments](https://www.antstack.com/blog/aws-apprunner-getting-started-with-ecr-deployments/)
 
 ### 2021-05-02 - [Using DNS Filters for Blocking Ads and Tracking](https://vishwas.tech/blog/using-dns-filters-for-blocking-ads-and-tracking)
 
 ### 2020-10-18 - [Opting Out From Contextual/Targeted Ads on Popular Sites](https://vishwas.tech/blog/opting-out-from-contextual-targeted-ads)
-
-### 2020-07-18 - [Svelte and Sapper: First Impressions](https://vishwas.tech//blog/2020/07/18/svelte-sapper-first-impressions.html)
-
-### 2020-04-11 - [Transition from LAMP to JAMStack](https://vishwas.tech//blog/2020/04/11/lamp-to-jam-stack.html)
 
 ### 2019-12-15 - [Easy Serverless Deployment using Serverless Framework & Github Actions](https://vishwas.tech/blog/2019/12/15/serverless-deployment-using-serverless-framework-github-actions.html)
 

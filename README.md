@@ -27,6 +27,9 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
+
+### 2023-10-11 - [A Closer Look at Serverless Databases: Fauna, PlanetScaleDB, NeonDB](https://www.antstack.com/blog/a-closer-look-at-serverless-databases-fauna-planetscaledb-neondb/)
+
 ### 2023-07-05 - [Streamlining AWS Account Access Management with AWS IAM Identity Center (AWS SSO)](https://www.antstack.com/blog/streamlining-aws-account-access-management-with-aws-iam-identity-center-aws-sso/)
 
 ### 2023-06-07 - [Protecting Serverless Applications with AWS WAF](https://www.antstack.com/blog/protecting-serverless-applications-with-aws-waf/)

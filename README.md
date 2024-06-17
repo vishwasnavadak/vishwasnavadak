@@ -25,8 +25,7 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 <p>&nbsp;</p>
 
-## ✍️ Latest Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
-
+## ✍️ Blog Posts    ·    [View All](https://vishwas.tech/blog) 🚀   ·   [Subscribe](https://vishwas.tech/go/subscribe) 📬
 
 ### 2023-10-11 - [A Closer Look at Serverless Databases: Fauna, PlanetScaleDB, NeonDB](https://www.antstack.com/blog/a-closer-look-at-serverless-databases-fauna-planetscaledb-neondb/)
 
@@ -34,27 +33,22 @@ I am a software developer currently working at <img height="16" width="16" src='
 
 ### 2023-06-07 - [Protecting Serverless Applications with AWS WAF](https://www.antstack.com/blog/protecting-serverless-applications-with-aws-waf/)
 
-### 2023-01-08 - [HIGHlights of My 2022](https://vishwas.tech/blog/highlights-of-my-2022)
-
 ### 2022-10-17 - [Migrating to antstack.com From antstack.io Using AWS Amplify](https://www.antstack.com/blog/migrating-to-antstack-com-from-antstack-io-using-aws-amplify/)
 
 ### 2022-08-08 - [Email Management 101](https://vishwas.tech/blog/email-management)
 
-### 2022-01-16 - [Renewing Old Hobbies, Trying New Things and Self Reflection](https://vishwas.tech/blog/hobbies-and-self-discovery)
-
 ### 2021-11-11 - [Different Ways to Build and Deploy Serverless Applications](https://www.antstack.com/blog/different-ways-to-build-and-deploy-serverless-applications/)
 
-### 2021-08-15 - [Getting Away from Notification Hell](https://vishwas.tech/blog/notification-hell)
 
-### 2021-07-10 - [AWS App Runner: Getting Started with ECR Deployments](https://www.antstack.com/blog/aws-apprunner-getting-started-with-ecr-deployments/)
+<p>&nbsp;</p>
 
-### 2021-05-02 - [Using DNS Filters for Blocking Ads and Tracking](https://vishwas.tech/blog/using-dns-filters-for-blocking-ads-and-tracking)
+## 🎤 Talks  ·    [View All](https://vishwas.tech/talks) 🚀
 
-### 2020-10-18 - [Opting Out From Contextual/Targeted Ads on Popular Sites](https://vishwas.tech/blog/opting-out-from-contextual-targeted-ads)
+### 2023-09-09 - [Demystifying Serverless Security on AWS](https://www.youtube.com/watch?v=yhi7BaKJN80) at ServerlessDays Ahmedabad 2023
 
-### 2019-12-15 - [Easy Serverless Deployment using Serverless Framework & Github Actions](https://vishwas.tech/blog/2019/12/15/serverless-deployment-using-serverless-framework-github-actions.html)
+### 2023-01-31 - Running Hasura on AWS with Serverless at Hasura User Group Meetup Jan 2023
 
-### 2019-09-25 - [Using JavaScript with Tableau](https://vishwas.tech/blog/2019/09/25/using-javascript-with-tableau.html)
+### 2023-10-29 - Building a peer-to-peer messaging app 100% on Serverless at AWS Community Day Kochi 2022
 
-### 2019-07-15 - [Scraping the web with javascript](https://vishwas.tech/blog/2019/07/15/scraping-with-javascript.html)
+
 

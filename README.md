@@ -12,6 +12,10 @@ I am a software engineer currently working as Tech Architect at HashedIn by Delo
 
 ## Blog Posts
 
+### 2026-06-06 - [AI Psychosis](https://vishwas.tech/blog/ai-psychosis)
+
+### 2026-06-01 - [Leap of Trust](https://vishwas.tech/blog/leap-of-trust)
+
 ### 2026-04-20 - [Trying to Cure the Incurable](https://vishwas.tech/blog/hyperhidrosis-2)
 
 ### 2026-03-12 - [Testing Agents with Amazon Bedrock Evals and Claude Code](https://vishwas.tech/blog/testing-agents-with-amazon-bedrock-evals-and-claude-code)
